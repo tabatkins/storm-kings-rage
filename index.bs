@@ -1,0 +1,34 @@
+<pre class='metadata'>
+Title: Storm King's Rage Campaign Bible
+Shortname: storm-kings-rage
+Level: 1
+Status: DREAM
+URL: https://tabatkins.github.io/storm-kings-rage
+Editor: Tab Atkins-Bittner
+Abstract: A campaign bible for my Storm King's Rage campaign. If you're a player, don't read!
+</pre>
+
+Players {#players}
+==================
+
+Rizwin ??? {#p-rizwin}
+--------------------
+
+<dfn>Rizwin</dfn> is a dwarf monk from the Iron??? clan.
+
+
+Orlando {#p-orlando}
+--------------------
+
+<dfn>Orlando</dfn> is a human wizard trader.
+
+
+Cecil {#p-cecil}
+----------------
+
+<dfn>Cecil</dfn> is a human paladin.
+
+
+NPCs {#npcs}
+============
+
