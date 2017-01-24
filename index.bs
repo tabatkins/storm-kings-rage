@@ -11,10 +11,30 @@ Abstract: A campaign bible for my Storm King's Rage campaign. If you're a player
 Players {#players}
 ==================
 
-Rizwin ??? {#p-rizwin}
+Rizwin Ironfist {#p-rizwin}
 --------------------
 
-<dfn>Rizwin</dfn> is a dwarf monk from the Iron??? clan.
+<dfn>Rizwin</dfn> is a dwarf monk from the Ironfist clan.
+She's a Sage (scholar) background.
+Related to <a>Ildehar Ironfist</a>.
+
+Notable possessions:
+
+: Spider Staff
+:: Non-magical staff, gotten off of <a>Magic Brian</a>.
+    Deals  +1d6 poison damage.
+    Has 10 charges, for spider climb (1) or web (2, DC 15), regains 1d6+4 at dawn.
+
+: Glass Staff
+:: +1 staff. Gives +1 to AC.
+    Has 10 charges, for mage armor (1) or shield (2), regains 1d6+4 at dawn.
+
+: Boots of Striding and Springing
+:: Movement always 30ft. x3 jump distance.
+
+: North Knowledge.
+:: Granted by study with <a>Zephyros</a>.
+    Advantage on any checks related to the geography of the North.
 
 
 Orlando {#p-orlando}
@@ -28,7 +48,25 @@ Cecil {#p-cecil}
 
 <dfn>Cecil</dfn> is a human paladin.
 
+Notable possessions:
+
+: Cloud Giant Familiarity
+:: Granted by study with <a>Zephyros</a>.
+    Advantage on any Cha checks against cloud giants.
+
+: Wand of Magic Missiles
+:: 7 charges, for magic missile (1).
+    Can use 2 or 3 charges to cast at 2nd or 3rd level.
+    Regains 1d6+1 at dawn.
+
 
 NPCs {#npcs}
 ============
 
+<dfn>Magic Brian</dfn>--
+chased off from the Phandelver mine.
+Plan is to have him return to Phandolin,
+and work with <a>Halia</a>
+to shove <a>Gundren</a> out of the mine
+and exploit it himself,
+for the Circle.
